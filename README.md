@@ -42,7 +42,7 @@ Program execution time: X.XXXX sec
 // substring_search.cpp
 ```
 
-```markdown
+
 ### Предполагаемое время выполнения нагрузочных программ
 
 ---
